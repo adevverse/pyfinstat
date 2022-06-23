@@ -16,6 +16,16 @@ Target Population -> Sample
 - A randomly selected individual will be put back before the next one being selected
 - A population element can be selectd more than one time
 
+### Parameters 
+- Mean
+- Variance
+- Standard deviation
+### Statistics
+- Sample mean
+- Sample variance
+- Sample standard deviation
+
+
 
 
 ## 2. Variation of Sample
