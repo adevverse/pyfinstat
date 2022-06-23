@@ -1,5 +1,6 @@
 # Week 3
 
+
 ## 1. Population and Sample
 ### Introduce random sampling and Sample
 
