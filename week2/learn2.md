@@ -18,6 +18,15 @@ Such concepts are applied into different contexts in our daily lives. Let us see
 
 ##  1. Outcomes and Random Variable
 > What are outcomes of Random variables
+> Dice game
+> > Sum of faces
+> > Rolling dice in python
+<code>
+# X = The sum of faces 
+# Random Variable -> Discrete -> Continuous 2,3,4,5,6,7,8,9,10,11,12
+# 1.5% -> -4.558% -> -8.8756% -> 13.48 % 
+</code>
+
 ##  2. Frequency and Distribution
 > Discuss frequency, relative frequency and distribution
 ##  3. Models of Stock
