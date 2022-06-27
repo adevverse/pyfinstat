@@ -34,6 +34,10 @@ Target Population -> Sample
 
 ## 3. Confidence Interval
 ### How to estimate using confidence interval
+Estimate Sample Return
+Making inference using data (Population mean (u)
+Sample
+
 
 ## 4. Hypothesis Testing
 ### Validate Claims using Hypothesis Testing
